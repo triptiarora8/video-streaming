@@ -1,0 +1,19 @@
+{
+  "name": "videostreamingbackend",
+  "version": "1.0.0",
+  "description": "A video streaming video storing website mainly focused on learning backend.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Tripti arora",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
